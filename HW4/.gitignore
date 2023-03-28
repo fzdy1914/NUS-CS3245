@@ -1,0 +1,8 @@
+/nltk_data/
+/.idea/
+__pycache__/
+dataset.csv
+/joblib/
+/numpy/
+/scipy/
+/sklearn/
